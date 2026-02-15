@@ -1,0 +1,3 @@
+Server=IP_ZABBIX_SERVER
+ServerActive=IP_ZABBIX_SERVER
+Hostname=Client-Windows
