@@ -1,6 +1,8 @@
 # 📊 Infrastructure de supervision centralisée sous AWS avec Zabbix
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d2141ed4-fa7f-4edc-9928-e8e2a676bdf5" />
 
-## 👨‍🎓 Informations académiques
+
+## 👨‍🎓 Informations
 
 - **Étudiant** : Diallo Mohamed Ibrahim  
 - **Encadrant** : Prof. Azeddine KHIAT  
